@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 10rem;
+}
+
+
+@media screen and (max-width: 450px) {
+    body {
+      background-color: blue;
+      padding: 2rem;
+    }
+    .title{
+        background-color: red;
+        text-align: center;
+    }
+    .app-col{
+        display: flex;
+        flex-direction: row;
+    }
+  }

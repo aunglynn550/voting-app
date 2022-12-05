@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1,
+        "name": "Dat Tha",
+        "logo": "dat-dat.jpg",
+        "votes":0
+    },
+    {
+        "_id": 2,
+        "name": "Ko Khant Ti Ki",
+        "logo": "kokhant.jpg",
+        "votes":0
+    },
+    {
+        "_id": 3,
+        "name": "Ko Sat Nay Kha",
+        "logo": "sat-naykha.jpg",
+        "votes":0
+    }
+]
